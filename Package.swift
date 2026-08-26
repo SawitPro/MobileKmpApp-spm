@@ -11,7 +11,7 @@ let package = Package(
         .binaryTarget(
             name: "SharedKMP",
             url: "https://github.com/SawitPro/MobileKmpApp-spm/releases/download/dev-latest/SharedKMP.xcframework.zip",
-            checksum: "36865549f070b8e615432d570fe76b541b2aeb9e4144bf71fbcd2771fe2a8e8b"
+            checksum: "dbff23b7e4b452f2823fe0bcf274c07b0b49d22fd649fc12fa6f90fb2c96a922"
         ),
     ]
 )
